@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "quotation": "When should you use context api.",
+        "answer": "The Context API can be used to share data with multiple components, without having to pass data through props manually. It is ideal for simple state management or in cases where you want to pass some props deeply without the overkill that comes with Redux or MobX. However, if you decide to use React Context at all, you should be aware of its potential for performance drain. To prevent re-rendering, be sure to place contexts correctly only in the components that require them."
+    },
+    {
+        "id": 2,
+        "quotation": "What is a custom hook.",
+        "answer": "Custom React JS hooks are reusable functions that a React JS software developer can use to add special and unique functionality to the React applications. Usually, if there is a requirement to add a feature, one can install a third-party library and solve the problem. But what if there is no such library with hooks that can be used? This problem is solved by using custom React JS hooks. Custom React JS hooks can help developers save time, are reliable, reusable, and make the code clean. Creating custom React JS hooks is relatively easy, and you can search for many open sources where you can get some custom hooks from the library already created by developers. Are you a React JS developer well versed in React coding looking for a job in the US? Try Turing. With Turing, you get a work-from-anywhere US-based software development job, which means you don’t have to travel all the way to the US. Head to Turing’s job page to know more."
+    },
+    {
+        "id": 3,
+        "quotation": "What is useRef .",
+        "answer": "useRef is a hook provided by React that allows you to create a mutable reference object which can be used to store and access a value, much like an instance property in a class-based component. Unlike state values managed by useState, useRef values don’t cause the component to re-render when they’re updated, so they can be used to store data that doesn’t affect the component’s appearance. useRef can be used to get a reference to a DOM element or another component, to persist data across re-renders of a component, or to store any mutable value that needs to be accessed from within a component."
+    },
+    {
+        "id": 4,
+        "quotation": "What is useMemo.",
+        "answer": "useMemo is a function that returns a memoized value of a passed in resource-intensive function. It is very useful in optimizing the performance of a React component by eliminating repeating heavy computations.."
+    }
+]

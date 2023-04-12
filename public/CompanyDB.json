@@ -1,0 +1,380 @@
+[
+    {
+        "id": 1,
+        "logo": "https://logo-logos.com/2016/11/Google_logo_logotype.png",
+        "title": "Software Engineer",
+        "company_name": "Google",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Mountain View, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$150,000 - $200,000",
+        "description": "Google is seeking a talented software engineer to work on cutting-edge technologies in a fast-paced environment. The ideal candidate will have experience with distributed systems and a passion for solving complex problems.",
+        "responsibilities": [
+            "Design and implement new features for Google's core products",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in software engineering",
+        "contactInformation": {
+            "phone": "+1-XXX-XXX-XXXX",
+            "email": "jobs@google.com",
+            "twitter": "@GoogleJobs",
+            "hotline": "1-800-GOOGLE"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "https://w7.pngwing.com/pngs/1012/770/png-transparent-amazon-logo-amazon-com-amazon-video-logo-company-brand-amazon-logo-miscellaneous-wish-text.png",
+        "title": "Business Analyst",
+        "company_name": "Amazon",
+        "remoteOrOnsite": "Remote",
+        "category_job": "Business",
+        "location": "Virtual",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $150,000",
+        "description": "Amazon is seeking a highly motivated business analyst to help drive growth and profitability across our various business units. The ideal candidate will have experience with data analysis, problem-solving, and strategic thinking.",
+        "responsibilities": [
+            "Analyze large data sets to identify trends and opportunities for improvement",
+            "Develop business cases and recommendations for senior leadership",
+            "Collaborate with cross-functional teams to execute on strategic initiatives",
+            "Monitor and report on key performance indicators to measure progress",
+            "Identify and escalate risks and issues as necessary"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Business, Finance, or related field",
+        "experience": "5+ years of experience in business analysis or related field",
+        "contactInformation": {
+            "phone": "+1-XXX-XXX-XXXX",
+            "email": "jobs@amazon.com",
+            "twitter": "@AmazonJobs",
+            "hotline": "1-800-AMAZON"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "https://c4.wallpaperflare.com/wallpaper/471/516/832/apple-logo-white-background-wallpaper-preview.jpg",
+        "title": "Software Engineer",
+        "company_name": "Apple",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Cupertino, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$150,000 - $200,000",
+        "description": "Apple is seeking a talented software engineer to work on cutting-edge technologies in a fast-paced environment. The ideal candidate will have experience with mobile development and a passion for creating exceptional user experiences.",
+        "responsibilities": [
+            "Design and implement new features for Apple's iOS platform",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in software engineering",
+        "contactInformation": {
+            "phone": "+1-XXX-XXX-XXXX",
+            "email": "jobs@apple.com",
+            "twitter": "@AppleJobs",
+            "hotline": "1-800-APPLE"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "https://wallpaperaccess.com/full/833268.png",
+        "title": "Product Manager",
+        "company_name": "Microsoft",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Product Management",
+        "location": "Redmond, WA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $150,000",
+        "description": "Microsoft is seeking a highly motivated product manager to help drive the strategy and vision for our cloud services platform. The ideal candidate will have experience with cloud computing and a passion for creating impactful products.",
+        "responsibilities": [
+            "Develop and execute product roadmaps for Microsoft's cloud services platform",
+            "Collaborate with cross-functional teams to deliver high-quality products on time",
+            "Define and measure key performance indicators to ensure success",
+            "Stay up-to-date with market trends and competitive landscape",
+            "Identify and prioritize new product opportunities"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Business, Engineering, or related field",
+        "experience": "5+ years of experience in product management or related field",
+        "contactInformation": {
+            "phone": "+1-XXX-XXX-XXXX",
+            "email": "jobs@microsoft.com",
+            "twitter": "@MicrosoftJobs",
+            "hotline": "1-800-MICROSOFT"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/2560px-Meta-Logo.png",
+        "title": "Product Designer",
+        "company_name": "Facebook",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Design",
+        "location": "Menlo Park, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$130,000 - $170,000",
+        "description": "Facebook is seeking a talented product designer to help create the next generation of products for our social media platform. The ideal candidate will have experience with user research, interaction design, and a passion for creating delightful experiences.",
+        "responsibilities": [
+            "Conduct user research to understand customer needs and pain points",
+            "Create wireframes, prototypes, and high-fidelity designs for web and mobile platforms",
+            "Collaborate with cross-functional teams to deliver high-quality products on time",
+            "Work with engineers to ensure designs are implemented correctly",
+            "Continuously iterate on designs based on user feedback and data"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in product design or related field",
+        "contactInformation": {
+            "phone": "+1-XXX-XXX-XXXX",
+            "email": "jobs@facebook.com",
+            "twitter": "@FacebookJobs",
+            "hotline": "1-800-FACEBOOK"
+        }
+    },
+    {
+        "id": 6,
+        "logo": "https://www.pngplay.com/wp-content/uploads/5/Tencent-Holdings-Logo-PNG-HD-Quality.png",
+        "title": "Software Engineer",
+        "company_name": "Tencent",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Shenzhen, China",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "¥200,000 - ¥400,000",
+        "description": "Tencent is seeking a talented software engineer to work on our cutting-edge technologies in a fast-paced environment. The ideal candidate will have experience with mobile development and a passion for creating exceptional user experiences.",
+        "responsibilities": [
+            "Design and implement new features for Tencent's mobile platforms",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in software engineering",
+        "contactInformation": {
+            "phone": "+86-XXX-XXX-XXXX",
+            "email": "jobs@tencent.com",
+            "twitter": "@TencentJobs",
+            "hotline": "400-800-XXXX"
+        }
+    },
+    {
+        "id": 7,
+        "logo": "https://i.pinimg.com/originals/dc/36/c1/dc36c1d02dfe2ec192b7ec6d2289cb2d.png",
+        "title": "Software Engineer",
+        "company_name": "Samsung",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Information Technology",
+        "location": "Seoul, South Korea",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $120,000",
+        "description": "We are looking for a highly skilled software engineer to join our team in developing cutting-edge software solutions for Samsung's mobile devices. The ideal candidate will have a strong background in software development, as well as experience with mobile application development.",
+        "responsibilities": [
+            "Design and implement new features for Tencent's mobile platforms",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or a related field",
+        "experience": "3+ years of experience in software development",
+        "contactInformation": {
+            "phone": "+82-2-2255-6114",
+            "email": "recruiting@samsung.com",
+            "twitter": "@SamsungCareers",
+            "hotline": "+82-2-2255-6114"
+        }
+    },
+    {
+        "id": 8,
+        "logo": "https://i.pinimg.com/originals/dc/36/c1/dc36c1d02dfe2ec192b7ec6d2289cb2d.png",
+        "title": "Data Scientist",
+        "company_name": "Samsung",
+        "remoteOrOnsite": "Remote",
+        "category_job": "Data Science",
+        "location": "Any location",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $130,000",
+        "description": "We are looking for a highly skilled data scientist to join our team in developing cutting-edge data solutions for Samsung's products and services. The ideal candidate will have a strong background in data science, as well as experience with machine learning and data mining.",
+        "responsibilities": [
+            "Design and implement new features for Tencent's mobile platforms",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science, Statistics, or a related field",
+        "experience": "5+ years of experience in data science, machine learning, or a related field",
+        "contactInformation": {
+            "phone": "+82-2-2255-6114",
+            "email": "recruiting@samsung.com",
+            "twitter": "@SamsungCareers",
+            "hotline": "+82-2-2255-6114"
+        }
+    },
+    {
+        "id": 9,
+        "logo": "https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png",
+        "title": "Software Engineer",
+        "company_name": "Oracle",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Redwood City, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $160,000",
+        "description": "We are seeking a highly motivated Software Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining software applications for our customers.",
+        "responsibilities": [
+            "Design and implement new features for Tencent's mobile platforms",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+        "experience": "5+ years of software development experience.",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "recruiting@oracle.com",
+            "twitter": "@oraclejobs",
+            "hotline": "1-800-ORACLE"
+        }
+    },
+    {
+        "id": 10,
+        "logo": "https://c4.wallpaperflare.com/wallpaper/451/45/241/intel-logo-symbol-brand-wallpaper-preview.jpg",
+        "title": "Hardware Engineer",
+        "company_name": "Intel",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Santa Clara, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$130,000 - $170,000",
+        "description": "We are looking for a talented Hardware Engineer to join our team. In this role, you will be responsible for developing and testing hardware products for our customers.",
+        "responsibilities": [
+            "Develop and execute product roadmaps for Microsoft's cloud services platform",
+            "Collaborate with cross-functional teams to deliver high-quality products on time",
+            "Define and measure key performance indicators to ensure success",
+            "Stay up-to-date with market trends and competitive landscape",
+            "Identify and prioritize new product opportunities"
+        ],
+        "educationalRequirements": "Bachelor's degree in Electrical Engineering or related field.",
+        "experience": "5+ years of experience in hardware design and testing.",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "recruiting@intel.com",
+            "twitter": "@inteljobs",
+            "hotline": "1-800-INTEL"
+        }
+    },
+    {
+        "id": 11,
+        "logo": "https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png",
+        "title": "Software Engineer",
+        "company_name": "Oracle",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Redwood City, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$120,000 - $160,000",
+        "description": "We are seeking a highly motivated Software Engineer to join our dynamic team. In this role, you will be responsible for developing and maintaining software applications for our customers.",
+        "responsibilities": [
+            "Develop and execute product roadmaps for Microsoft's cloud services platform",
+            "Collaborate with cross-functional teams to deliver high-quality products on time",
+            "Define and measure key performance indicators to ensure success",
+            "Stay up-to-date with market trends and competitive landscape",
+            "Identify and prioritize new product opportunities"
+        ],
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+        "experience": "5+ years of software development experience.",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "recruiting@oracle.com",
+            "twitter": "@oraclejobs",
+            "hotline": "1-800-ORACLE"
+        }
+    },
+    {
+        "id": 12,
+        "logo": "https://c4.wallpaperflare.com/wallpaper/451/45/241/intel-logo-symbol-brand-wallpaper-preview.jpg",
+        "title": "Hardware Engineer",
+        "company_name": "Intel",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Engineering",
+        "location": "Santa Clara, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$130,000 - $170,000",
+        "description": "We are looking for a talented Hardware Engineer to join our team. In this role, you will be responsible for developing and testing hardware products for our customers.",
+        "responsibilities": [
+            "Develop and execute product roadmaps for Microsoft's cloud services platform",
+            "Collaborate with cross-functional teams to deliver high-quality products on time",
+            "Define and measure key performance indicators to ensure success",
+            "Stay up-to-date with market trends and competitive landscape",
+            "Identify and prioritize new product opportunities"
+        ],
+        "educationalRequirements": "Bachelor's degree in Electrical Engineering or related field.",
+        "experience": "5+ years of experience in hardware design and testing.",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "recruiting@intel.com",
+            "twitter": "@inteljobs",
+            "hotline": "1-800-INTEL"
+        }
+    },
+    {
+        "id": 13,
+        "logo": "https://www.kindpng.com/picc/m/165-1655243_accenture-logo-hd-png-download.png",
+        "title": "Artificial Intelligence Engineer",
+        "company_name": "Accenture",
+        "remoteOrOnsite": "Remote",
+        "category_job": "Technology",
+        "location": "United States",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$100,000 - $150,000",
+        "description": "We are seeking an experienced Artificial Intelligence Engineer to join our team. You will be responsible for designing and implementing AI solutions for our clients, as well as working with a team of data scientists and engineers to develop and improve our AI capabilities.",
+        "responsibilities": [
+            "Design and implement new features for Google's core products",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "• Bachelor's or Master's degree in Computer Science or related field\n• Experience in AI or related field",
+        "experience": "• 3+ years of experience in AI or related field",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "careers@accenture.com",
+            "twitter": "@AccentureCareers",
+            "hotline": "1-800-555-5555"
+        }
+    },
+    {
+        "id": 14,
+        "logo": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg",
+        "title": "Frontend Developer",
+        "company_name": "Adobe",
+        "remoteOrOnsite": "Onsite",
+        "category_job": "Technology",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "Full-time",
+        "salary": "$90,000 - $120,000",
+        "description": "We are looking for an experienced Frontend Developer to join our team. In this role, you will be responsible for developing and maintaining our web applications, as well as working closely with our design and backend teams to ensure a seamless user experience.",
+        "responsibilities": [
+            "Design and implement new features for Google's core products",
+            "Collaborate with cross-functional teams to develop innovative solutions",
+            "Write high-quality code that is maintainable and scalable",
+            "Contribute to code reviews and ensure adherence to best practices",
+            "Continuously improve software engineering practices across the company"
+        ],
+        "educationalRequirements": "• Bachelor's or Master's degree in Computer Science or related field\n• Experience in frontend development",
+        "experience": "• 3+ years of experience in frontend development",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "careers@adobe.com",
+            "twitter": "@AdobeCareers",
+            "hotline": "1-800-555-5555"
+        }
+    }
+]

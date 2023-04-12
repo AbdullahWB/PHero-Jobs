@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "student_name": "John Doe",
+        "assignment_id": "assignment-1",
+        "mark": 60
+    },
+    {
+        "id": 2,
+        "student_name": "Jane Smith",
+        "assignment_id": "assignment-2",
+        "mark": 59
+    },
+    {
+        "id": 3,
+        "student_name": "Bob Johnson",
+        "assignment_id": "assignment-3",
+        "mark": 60
+    },
+    {
+        "id": 4,
+        "student_name": "Alice Lee",
+        "assignment_id": "assignment-4",
+        "mark": 60
+    },
+    {
+        "id": 5,
+        "student_name": "Tom Wilson",
+        "assignment_id": "assignment-5",
+        "mark": 60
+    },
+    {
+        "id": 6,
+        "student_name": "Sara Davis",
+        "assignment_id": "assignment-6",
+        "mark": 47
+    },
+    {
+        "id": 7,
+        "student_name": "Mike Brown",
+        "assignment_id": "assignment-7",
+        "mark": 60
+    },
+    {
+        "id": 8,
+        "student_name": "Amy Kim",
+        "assignment_id": "assignment-8",
+        "mark": 60
+    }
+]

@@ -1,0 +1,28 @@
+ [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/1LTNYxK/accounts-1.png",
+        "name": "Backend Developer",
+        "jobCount": 1500
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/3MQDZXS/social-media-1.png",
+        "name": "Frontend Developer",
+        "jobCount": 1800
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/3MQDZXS/social-media-1.png",
+        "name": "Full Stack Developer",
+        "jobCount": 1200
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/rbGb7Hk/chip-1.png",
+        "name": "Data Scientist",
+        "jobCount": 900
+      }
+    ]
+
+  
